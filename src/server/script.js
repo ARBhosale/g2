@@ -1,5 +1,6 @@
 import { gs } from '@servicenow/glide'
-const a = 44;
+const a = 47;
+const b = 48;
 export function showStateUpdate(current, previous) {
     const currentState = current.getValue('state')
     const previousState = previous.getValue('state')
