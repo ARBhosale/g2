@@ -1,7 +1,7 @@
 {
     "name": "@servicenow/kokoko",
     "version": "0.0.4",
-    "description": "kokoko",
+    "description": "Some description",
     "license": "UNLICENSED",
     "scripts": {
         "build": "now-sdk build",
